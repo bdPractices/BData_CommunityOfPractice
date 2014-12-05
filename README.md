@@ -3,6 +3,11 @@ BData_CommunityOfPractice
 
 Repository for the Big Data Community Of Practice group
 
+Harvard - Data Science course materials
+-----------------
+http://cs109.github.io/2014/
+
+
 Hortonworks Tutorials
 -----------------
 
