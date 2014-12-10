@@ -3,12 +3,13 @@ BData_CommunityOfPractice
 
 Repository for the Big Data Community Of Practice group
 
-Weekly tasks
+Weekly tasks (For next Friday 19)
 -----------------
-- Look for employees LinkedIn profiles (Input Data)
-- ETL Strategy (LinkedIn API)
+- Look for employees LinkedIn profiles (Input Data) - Duvelis
+- ETL Strategy (LinkedIn API) - Leonardo
     - Pull public profiles and data available
-- Draft of the Model for the Availability Index
+- Draft of the Model for the Availability Index - Ignacio y Richard
+- Big Data books - Mauro
 
 
 User story 0
