@@ -3,6 +3,14 @@ BData_CommunityOfPractice
 
 Repository for the Big Data Community Of Practice group
 
+Weekly tasks
+-----------------
+- Look for employees LinkedIn profiles (Input Data)
+- ETL Strategy (LinkedIn API)
+    - Pull public profiles and data available
+- Draft of the Model for the Availability Index
+
+
 User story 0
 -----------------
 As a recruiting user I will be able to calculate the candidate availability scoring to determine the probability of the candidate to change jobs.
