@@ -6,6 +6,7 @@ Repository for the Big Data Community Of Practice group
 Weekly tasks (For next Friday 19)
 -----------------
 - Look for employees LinkedIn profiles (Input Data) - Duvelis
+- Presentation of the initiave for the executive board - Duvelis
 - ETL Strategy (LinkedIn API) - Leonardo
     - Pull public profiles and data available
 - Draft of the Model for the Availability Index - Ignacio y Richard
