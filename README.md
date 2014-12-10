@@ -3,6 +3,10 @@ BData_CommunityOfPractice
 
 Repository for the Big Data Community Of Practice group
 
+User story 0
+-----------------
+As a recruiting user I will be able to calculate the candidate availability scoring to determine the probability of the candidate to change jobs.
+
 Harvard - Data Science course materials
 -----------------
 http://cs109.github.io/2014/
