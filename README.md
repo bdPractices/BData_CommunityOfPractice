@@ -56,3 +56,7 @@ http://hortonworks.com/hadoop-tutorial/word-counting-with-apache-pig/?mkt_tok=3R
 How to Use HCatalog, Pig & Hive Commands
 
 http://hortonworks.com/hadoop-tutorial/how-to-use-hcatalog-basic-pig-hive-commands/?mkt_tok=3RkMMJWWfF9wsRouuqTKZKXonjHpfsX67%2B0oWaK0lMI%2F0ER3fOvrPUfGjI4HT8JnI%2BSLDwEYGJlv6SgFT7TMMbFh1rgNUxc%3D
+
+Linkedin
+
+https://developer.linkedin.com/documents/connections-api
