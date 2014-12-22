@@ -60,14 +60,19 @@ http://hortonworks.com/hadoop-tutorial/how-to-use-hcatalog-basic-pig-hive-comman
 Linkedin
 
 https://developer.linkedin.com/documents/connections-api
+
 https://developer.linkedin.com/documents/authentication
 
 The information of the authentication for linkedin is in the email of the group. 
-
-OAuth easy tutorial: http://tutorials.jenkov.com/oauth2/index.html
 
 Disadvantages: 
 
 The API needs that other API members of Linkedin accept your application to retrieve the members data.
 We only can go to the first level of connections, this means that we cannot go to the connections of our friends.
 Is very restrictive and does not permits to search the complete user information.
+
+Right now I am trying to connect to Linkedin using the OAuth 2.0 protocol, but I am having problems because I did not understand it very well. 
+
+OAuth easy tutorial: http://tutorials.jenkov.com/oauth2/index.html
+
+From what I saw, it seems like the API needs an human interactions because the protocol requeri the we send the authentication that can be provided by facebook, google, or another entity. So this makes me think that the API cannot be used to retrieve information automatically. 
