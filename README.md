@@ -60,3 +60,14 @@ http://hortonworks.com/hadoop-tutorial/how-to-use-hcatalog-basic-pig-hive-comman
 Linkedin
 
 https://developer.linkedin.com/documents/connections-api
+https://developer.linkedin.com/documents/authentication
+
+The information of the authentication for linkedin is in the email of the group. 
+
+OAuth easy tutorial: http://tutorials.jenkov.com/oauth2/index.html
+
+Disadvantages: 
+
+The API needs that other API members of Linkedin accept your application to retrieve the members data.
+We only can go to the first level of connections, this means that we cannot go to the connections of our friends.
+Is very restrictive and does not permits to search the complete user information.
