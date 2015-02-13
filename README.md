@@ -5,12 +5,14 @@ Repository for the Big Data Community Of Practice group
 
 Weekly tasks (For next Friday 30)
 -----------------
+. Notebook
+http://nbviewer.ipython.org/github/bdPractices/BData_CommunityOfPractice/blob/master/notebookWeek1/Data%20Analysis%20Community%20of%20Practice.ipynb
 - Look for 10 employees candidates LinkedIn profiles in html and load it to the repository (Input Data) - All
 - Presentation of the initiave for the executive board - Duvelis
 - ETL Strategy (LinkedIn API) - Leonardo
     - Pull public profiles and data available
-- Draft of the Model for the Availability Index - Ignacio y Richard 
-    - Add a page to the wiki that explain the uses cases of the model. 
+- Draft of the Model for the Availability Index - Ignacio y Richard
+    - Add a page to the wiki that explain the uses cases of the model.
 - Big Data books - Mauro
 
 User story 0
@@ -63,18 +65,18 @@ https://developer.linkedin.com/documents/connections-api
 
 https://developer.linkedin.com/documents/authentication
 
-The information of the authentication for linkedin is in the email of the group. 
+The information of the authentication for linkedin is in the email of the group.
 
-Disadvantages: 
+Disadvantages:
 
 The API needs that other API members of Linkedin accept your application to retrieve the members data.
 We only can go to the first level of connections, this means that we cannot go to the connections of our friends.
 Is very restrictive and does not permits to search the complete user information.
 
-Right now I am trying to connect to Linkedin using the OAuth 2.0 protocol, but I am having problems because I did not understand it very well. 
+Right now I am trying to connect to Linkedin using the OAuth 2.0 protocol, but I am having problems because I did not understand it very well.
 
 OAuth easy tutorial: http://tutorials.jenkov.com/oauth2/index.html
 
-From what I saw, it seems like the API needs an human interactions because the protocol requeri the we send the authentication that can be provided by facebook, google, or another entity. So this makes me think that the API cannot be used to retrieve information automatically. 
+From what I saw, it seems like the API needs an human interactions because the protocol requeri the we send the authentication that can be provided by facebook, google, or another entity. So this makes me think that the API cannot be used to retrieve information automatically.
 
-Crawling: http://www.quora.com/How-do-I-crawl-data-from-LinkedIn 
+Crawling: http://www.quora.com/How-do-I-crawl-data-from-LinkedIn
