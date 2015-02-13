@@ -5,8 +5,8 @@ Repository for the Big Data Community Of Practice group
 
 Weekly tasks (For next Friday 30)
 -----------------
-. Notebook
-http://nbviewer.ipython.org/github/bdPractices/BData_CommunityOfPractice/blob/master/notebookWeek1/Data%20Analysis%20Community%20of%20Practice.ipynb
+<a href='http://nbviewer.ipython.org/github/bdPractices/BData_CommunityOfPractice/blob/master/notebookWeek1/Data%20Analysis%20Community%20of%20Practice.ipynb'>Notebook</a>
+
 - Look for 10 employees candidates LinkedIn profiles in html and load it to the repository (Input Data) - All
 - Presentation of the initiave for the executive board - Duvelis
 - ETL Strategy (LinkedIn API) - Leonardo
