@@ -26,10 +26,10 @@ Weekly tasks
 
 User story 0
 -----------------
-- New
+- New:
   As a recruiting user I will be able to see a dashboard-like interface with the candidate virtual identity to have a 360 degree view of the candidate that supports better our recruitment decisions.
 
-- Old
+- Old:
   As a recruiting user I will be able to calculate the candidate availability scoring to determine the probability of the candidate to change jobs.
 
 
