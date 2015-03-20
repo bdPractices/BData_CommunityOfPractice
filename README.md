@@ -19,17 +19,17 @@ Weekly tasks
     - Implement Github Flume custom source [Ignacio]
 
 - Flume tutorials:
-<a href='http://flume.apache.org/FlumeUserGuide.html#data-flow-model'>The Flow Model</a>
-<a href='http://flume.apache.org/FlumeUserGuide.html#custom-source'>Flume custom sources</a>
-<a href='http://blog.cloudera.com/blog/2012/09/analyzing-twitter-data-with-hadoop/'>Cloudera example</a>
+  - <a href='http://flume.apache.org/FlumeUserGuide.html#data-flow-model'>The Flow Model</a>
+  - <a href='http://flume.apache.org/FlumeUserGuide.html#custom-source'>Flume custom sources</a>
+  - <a href='http://blog.cloudera.com/blog/2012/09/analyzing-twitter-data-with-hadoop/'>Cloudera example</a>
 
 
 User story 0
 -----------------
-New
+- New
 As a recruiting user I will be able to see a dashboard-like interface with the candidate virtual identity to have a 360 degree view of the candidate that supports better our recruitment decisions.
 
-Old
+- Old
 As a recruiting user I will be able to calculate the candidate availability scoring to determine the probability of the candidate to change jobs.
 
 
