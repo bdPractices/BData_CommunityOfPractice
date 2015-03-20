@@ -3,21 +3,39 @@ BData_CommunityOfPractice
 
 Repository for the Big Data Community Of Practice group
 
-Weekly tasks (For next Friday 30)
+Weekly tasks
 -----------------
-<a href='http://nbviewer.ipython.org/github/bdPractices/BData_CommunityOfPractice/blob/master/notebookWeek1/Data%20Analysis%20Community%20of%20Practice.ipynb'>Notebook</a>
+- Update documentation for Intertec Web page:
+  - Vision (already done)
+  - General White Paper
+    - Services Offered (Accenture approach) [Richard]
+    - Results for our clients (Sample from IBM <a href='http://www.ibm.com/big-data/us/en/'>page</a>) [Duvelis]
+  - Big Data Projects Roadmap White Paper
+    - The Journey to Actionable Insights (Refinement needed) [Richard]
 
-- Look for 10 employees candidates LinkedIn profiles in html and load it to the repository (Input Data) - All
-- Presentation of the initiave for the executive board - Duvelis
-- ETL Strategy (LinkedIn API) - Leonardo
-    - Pull public profiles and data available
-- Draft of the Model for the Availability Index - Ignacio y Richard
-    - Add a page to the wiki that explain the uses cases of the model.
-- Big Data books - Mauro
+- Proof of concept project (HDP Sandbox)
+  - Implement the ingestion system (Apache Flume)
+    - Implement Twitter Flume custom source [Leo]
+    - Implement Github Flume custom source [Ignacio]
+
+- Flume tutorials:
+<a href='http://flume.apache.org/FlumeUserGuide.html#data-flow-model'>The Flow Model</a>
+<a href='http://flume.apache.org/FlumeUserGuide.html#custom-source'>Flume custom sources</a>
+<a href='http://blog.cloudera.com/blog/2012/09/analyzing-twitter-data-with-hadoop/'>Cloudera example</a>
+
 
 User story 0
 -----------------
+New
+As a recruiting user I will be able to see a dashboard-like interface with the candidate virtual identity to have a 360 degree view of the candidate that supports better our recruitment decisions.
+
+Old
 As a recruiting user I will be able to calculate the candidate availability scoring to determine the probability of the candidate to change jobs.
+
+
+IPython Notebook Example
+-----------------
+<a href='http://nbviewer.ipython.org/github/bdPractices/BData_CommunityOfPractice/blob/master/notebookWeek1/Data%20Analysis%20Community%20of%20Practice.ipynb'>Notebook</a>
 
 Harvard - Data Science course materials
 -----------------
