@@ -98,3 +98,5 @@ OAuth easy tutorial: http://tutorials.jenkov.com/oauth2/index.html
 From what I saw, it seems like the API needs an human interactions because the protocol requeri the we send the authentication that can be provided by facebook, google, or another entity. So this makes me think that the API cannot be used to retrieve information automatically.
 
 Crawling: http://www.quora.com/How-do-I-crawl-data-from-LinkedIn
+
+Datasets de costa rica google query:  costa rica site:data.okfn.org/
